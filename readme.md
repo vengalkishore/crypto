@@ -53,12 +53,6 @@ The Excel file will be updated with the latest cryptocurrency data and analysis,
 File Format
 The Excel file will have the following columns:
 
-Symbol: Cryptocurrency symbol (e.g., BTC)
-Price (USD): The current price in USD
-Market Cap: The market capitalization of the cryptocurrency
-24h Volume: The 24-hour trading volume
-24h Change (%): The 24-hour percentage change in price
-The script will also update the top 5 cryptocurrencies by market cap and apply conditional coloring based on the 24-hour change percentage.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
